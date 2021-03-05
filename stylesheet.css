@@ -23,3 +23,7 @@ body{
 :root{
     font-family: Exo; 
 }
+
+#birdy{
+    width: 200px; height: auto;
+}
