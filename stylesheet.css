@@ -4,10 +4,11 @@ html{
     background-size: cover;
     background-position: fixed
 }
-
-head{
-    text-align: center;
+#name{
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
+
 
 h1{
     color: white;
@@ -16,7 +17,7 @@ h1{
 body{
     color: white;
     text-align: center;
-    
+    margin: 10px, 300px, 10px, 300px; 
 }
 
 :root{
